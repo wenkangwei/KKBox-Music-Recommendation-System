@@ -1,6 +1,4 @@
-# course_project
-
-# Description of Folders
+# Description of Folders in this course_project
 + data
 
 This folder contains description of information of data and source of data
