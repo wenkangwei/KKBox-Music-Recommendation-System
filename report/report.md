@@ -297,14 +297,20 @@ In Modeling and Evaluation, we use LGBM models and Wide & Deep Neural network mo
 
 # Support Materials
 + **Dataset:** 
+
 You can find the dataset from Kaggle: https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data Or you can get the dataset from our Google Drive: https://drive.google.com/file/d/1-WJHZUWFtz9ksfvFoX-dc-ZKjZ6fTk0D/view?usp=sharing
 
 + **Link to Our website/ notebook in databrick platform:** 
+
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3546981394788271/3905787926422076/7844345949955417/latest.html
-+ **Link to Our notebook in Google Colab (This notebook is as same as notebook in databrick, but in Colab, you can directly run it after copying it to your drive):**
+
++ **Link to Our notebook in Google Colab:**
+
+**This notebook is as same as notebook in databrick, but in Colab, you can directly run it after copying it to your drive**
 https://colab.research.google.com/drive/1dssuTVKvDXM0zULihRt4tJUoOUoCxaFj?usp=sharing
 
 + **Github repository of this project:** 
+
 https://github.com/wenkangwei/cpsc6300-final-project
 
 # Declaration of academic integrity and responsibility
