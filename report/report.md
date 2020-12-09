@@ -300,7 +300,7 @@ Provide a list of materials that support your project, for example, the notebook
 
 + **Link to Our website/ notebook in databrick platform:** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3546981394788271/3905787926422076/7844345949955417/latest.html
 + **Link to Our notebook in Google Colab:** https://colab.research.google.com/drive/1dssuTVKvDXM0zULihRt4tJUoOUoCxaFj?usp=sharing
-+ **Images of EDA results:** https://github.com/cpsc6300/course-project-wenkang-and-shu-le/tree/main/images
++ **Github repository of this project:** https://github.com/wenkangwei/cpsc6300-final-project
 
 # Declaration of academic integrity and responsibility
 
